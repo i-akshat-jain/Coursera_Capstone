@@ -1,4 +1,3 @@
-
 # The Battle of Neighborhoods | Business Proposal | Introduction
 ## Introduction:
 
@@ -45,3 +44,4 @@ Geocoder: To retrieve Location Data.
 Beautiful Soup and Requests: To scrap and library to handle http requests.
 
 Matplotlib: Python Plotting Module.
+
